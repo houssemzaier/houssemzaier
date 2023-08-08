@@ -8,7 +8,7 @@ My interests include exploring new technologies and frameworks in the Android de
 
 ## 🌱 Currently Learning
 
-I'm a lifelong learner and currently deepening my knowledge of (mention specific technologies, frameworks, concepts you are learning).
+I'm a lifelong learner and currently deepening my knowledge of Jetpack Compose and Event-driven architecture
 
 ## 💞️ Looking to Collaborate
 
