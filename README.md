@@ -159,7 +159,9 @@ If you need someone who can **own the technical vision and still push code** —
 
 Most of my production work — the apps used by millions, the architecture migrations, the enterprise systems — lives under NDA in private repositories for companies like Louis Vuitton, Deezer, RATP, and others.
 
-What you'll find here are personal experiments, technical explorations, and side projects. They don't represent the scale or quality of my professional output. If you want to see what I can really do, **let's talk** — I'm happy to walk through architecture decisions, code samples, and technical deep-dives in a conversation.
+What you'll find here are personal experiments, technical explorations, and side projects. They don't represent the scale or quality of my professional output. If you want to see what I can really do — I'm happy to walk through architecture decisions, code samples, and technical deep-dives in a conversation.
+
+**[Book a 30-min call](https://cal.com/houssemzaier)** and I'll show you.
 
 <br/>
 
@@ -167,8 +169,9 @@ What you'll find here are personal experiments, technical explorations, and side
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssemzaier/)
-[![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssem.zaier@gmail.com)
+[![Book a Call](https://img.shields.io/badge/Book_a_30min_Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/houssemzaier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssemzaier/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssem.zaier@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/houssemzaier)
 
 <br/>
