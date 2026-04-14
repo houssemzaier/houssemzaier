@@ -98,6 +98,10 @@ Proud dad of **Haroon** and **Isaac**.
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Continue.dev](https://img.shields.io/badge/Continue.dev-1E1E1E?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitLab Duo](https://img.shields.io/badge/GitLab_Duo-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-7F52FF?style=for-the-badge&logo=anthropic&logoColor=white)
 
