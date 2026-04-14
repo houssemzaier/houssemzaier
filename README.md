@@ -125,19 +125,9 @@ Proud dad of **Haroon** and **Isaac**.
 
 <br/>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;GitHub Statistics
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;GitHub Activity
 
 <div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssemzaier&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=houssemzaier&theme=tokyonight)
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssemzaier&theme=tokyonight)
-
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houssemzaier&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=houssemzaier&theme=tokyonight&utcOffset=4)
-
-<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=houssemzaier&theme=tokyonight&hide_border=true&background=0d1117)
 
@@ -153,8 +143,6 @@ I architect the solution, define the trade-offs, and make the technical decision
 
 This approach lets me deliver at a pace and quality level that's hard to match — while staying fully accountable for every line that reaches production.
 
-> Most of my production work is under NDA. The repos here are personal projects and experiments — the real portfolio is in the apps you already use.
-
 <br/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Leadership & Founding
@@ -164,6 +152,14 @@ I've worn every hat — **Lead Developer, Architect, Founder, Security Auditor, 
 Founded **Mobile-Z-Consulting** (2022) and **BRAVE DROID** (2018) — running the full lifecycle from client acquisition to architecture to delivery. I've led teams, mentored juniors, defined technical roadmaps, and made the hard calls on trade-offs that ship products on time.
 
 If you need someone who can **own the technical vision and still push code** — that's what I do.
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About My Repos
+
+Most of my production work — the apps used by millions, the architecture migrations, the enterprise systems — lives under NDA in private repositories for companies like Louis Vuitton, Deezer, RATP, and others.
+
+What you'll find here are personal experiments, technical explorations, and side projects. They don't represent the scale or quality of my professional output. If you want to see what I can really do, **let's talk** — I'm happy to walk through architecture decisions, code samples, and technical deep-dives in a conversation.
 
 <br/>
 
