@@ -25,10 +25,11 @@ I care about **architecture, execution speed, product value, and measurable outc
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Certifications
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Education & Certifications
 
 <div align="center">
 
+![Engineering Degree](https://img.shields.io/badge/Master's_Engineering_Degree_(Bac+5)-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
 [![Kotlin](https://img.shields.io/badge/Kotlin_Certified-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/E4AQLPKPFEP9)
 [![Scrum PSM](https://img.shields.io/badge/Scrum.org_PSM-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/user/313396)
 
