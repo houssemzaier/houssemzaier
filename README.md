@@ -177,9 +177,11 @@ What you'll find here are personal experiments, technical explorations, and side
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Available For
 
-- **Contract roles** (3-12 months) — Android, iOS, KMP, backend
+- **Android & iOS development** — native apps in Kotlin and Swift, production-ready at scale
+- **KMP & Compose Multiplatform migrations** — greenfield or legacy modernization, shared code across platforms
+- **Backend development** — Kotlin (Spring Boot, Ktor) and TypeScript, APIs, microservices
+- **Full-stack engineering** — end-to-end from mobile to backend to cloud
 - **Architecture audits & code reviews** — mobile and backend codebases
-- **KMP/Compose Multiplatform migrations** — greenfield or legacy modernization
 - **AI-augmented team setup** — integrating AI tooling into your dev workflow
 - **Technical due diligence** — for investors, acquirers, or leadership teams
 
