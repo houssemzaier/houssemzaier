@@ -20,7 +20,7 @@ My core stack is **Kotlin, Java, Swift, and TypeScript**. I architect **cross-pl
 
 I care about **architecture, execution speed, product value, and measurable outcomes**. I don't just write features — I think about why we're building them and whether they'll hold up at scale.
 
-**Bilingual** (English & French) · Proud dad of **Haroon** and **Isaac**.
+**Trilingual** (English, French & Arabic) · Proud dad of **Haroon** and **Isaac**.
 
 <br/>
 
