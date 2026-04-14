@@ -21,9 +21,18 @@ My core stack is **Kotlin, Java, Swift, and TypeScript**. I architect **cross-pl
 
 I care about **architecture, execution speed, product value, and measurable outcomes**. I don't just write features — I think about why we're building them and whether they'll hold up at scale.
 
-**Bilingual** (English & French) · **Kotlin Certified** · **Scrum Certified**
+**Bilingual** (English & French) · Proud dad of **Haroon** and **Isaac**.
 
-Proud dad of **Haroon** and **Isaac**.
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Certifications
+
+<div align="center">
+
+[![Kotlin](https://img.shields.io/badge/Kotlin_Certified-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/E4AQLPKPFEP9)
+[![Scrum PSM](https://img.shields.io/badge/Scrum.org_PSM-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/user/313396)
+
+</div>
 
 <br/>
 
@@ -162,6 +171,16 @@ Most of my production work — the apps used by millions, the architecture migra
 What you'll find here are personal experiments, technical explorations, and side projects. They don't represent the scale or quality of my professional output. If you want to see what I can really do — I'm happy to walk through architecture decisions, code samples, and technical deep-dives in a conversation.
 
 **[Book a 30-min call](https://cal.com/houssemzaier)** and I'll show you.
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Available For
+
+- **Contract roles** (3-12 months) — Android, iOS, KMP, backend
+- **Architecture audits & code reviews** — mobile and backend codebases
+- **KMP/Compose Multiplatform migrations** — greenfield or legacy modernization
+- **AI-augmented team setup** — integrating AI tooling into your dev workflow
+- **Technical due diligence** — for investors, acquirers, or leadership teams
 
 <br/>
 
