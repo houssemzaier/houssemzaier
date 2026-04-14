@@ -169,22 +169,19 @@ I turn business needs into **fast, reliable, high-impact delivery**. Beyond codi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=houssemzaier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssemzaier&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" width="41%" alt="Top Languages" />
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssemzaier&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=houssemzaier&theme=tokyonight)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssemzaier&theme=tokyonight)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houssemzaier&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=houssemzaier&theme=tokyonight&utcOffset=4)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=houssemzaier&theme=tokyonight&hide_border=true&background=0d1117" width="60%" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=houssemzaier&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%" alt="Trophies" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=houssemzaier&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=houssemzaier&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7F52FF&line=087CFA&point=ffffff" width="100%" alt="Contribution Graph" />
 
 <br/>
 
