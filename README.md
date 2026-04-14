@@ -145,11 +145,11 @@ This approach lets me deliver at a pace and quality level that's hard to match �
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Leadership & Founding
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Leadership & Experience
 
-I've worn every hat — **Lead Developer, Architect, Founder, Security Auditor, Consultant**.
+**Independent contractor since 2018** — 8+ years of finding clients, scoping projects, delivering end-to-end, and taking full ownership of outcomes.
 
-Founded **Mobile-Z-Consulting** (2022) and **BRAVE DROID** (2018) — running the full lifecycle from client acquisition to architecture to delivery. I've led teams, mentored juniors, defined technical roadmaps, and made the hard calls on trade-offs that ship products on time.
+Along the way I've played every role — **Lead Developer, Architect, Security Auditor, Technical Consultant**. I've led teams, mentored juniors, defined technical roadmaps, and made the hard calls on trade-offs that ship products on time.
 
 If you need someone who can **own the technical vision and still push code** — that's what I do.
 
