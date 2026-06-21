@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:087CFA&height=220&section=header&text=Houssem%20Zaier&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20Kotlin%20Engineer%20%7C%2015%2B%20Years%20%7C%20Mobile%20%C2%B7%20Backend%20%C2%B7%20AI-Augmented%20Delivery&descSize=17&descAlignY=55&descColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:087CFA&height=220&section=header&text=Houssem%20Zaier&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20Kotlin%20%26%20Software%20Engineer%20%C2%B7%2015%2B%20yrs%20%C2%B7%20Android%20%2F%20iOS%20%2F%20KMP%20%C2%B7%20Backend%20%C2%B7%20Dev-Tooling%20%26%20AI&descSize=16&descAlignY=55&descColor=ffffff&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=40&lines=Dubai+%26+Paris+%C2%B7+Contractor+%C2%B7+Available+Remotely)](https://www.linkedin.com/in/houssemzaier/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=7F52FF&center=true&vCenter=true&repeat=true&width=720&height=40&lines=Android+%C2%B7+iOS+%C2%B7+KMP+%26+Compose+Multiplatform;Backend+%26+Full-stack+%28Kotlin+%C2%B7+TypeScript%29;Dev-Tooling+%C2%B7+AI+%C2%B7+LLM+agents;Dubai+%26+Paris+%C2%B7+Contractor+%C2%B7+Available+Remotely)](https://www.linkedin.com/in/houssemzaier/)
 
 [![Book a Call](https://img.shields.io/badge/Book_a_30min_Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/houssemzaier)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssemzaier/)
@@ -16,7 +16,7 @@
 
 Senior engineer with **15+ years** shipping mobile and software products — from B2C apps with **3M+ active users** to B2B systems running on manufacturing floors.
 
-My core stack is **Kotlin, Java, Swift, and TypeScript**. I architect **cross-platform solutions** with **KMP and Compose Multiplatform**, build backends with **Spring Boot and Ktor**, and leverage **AI-assisted development** to deliver faster while maintaining the quality standards I've built over a decade and a half.
+My core stack is **Kotlin, Java, Swift, and TypeScript**. I build **native Android & iOS** apps, architect **cross-platform** solutions with **KMP and Compose Multiplatform**, develop backends with **Spring Boot and Ktor**, ship **developer tooling** (IntelliJ/JetBrains plugins, VS Code extensions), and integrate **AI / LLM tooling** — while holding the quality bar I've built over a decade and a half.
 
 I care about **architecture, execution speed, product value, and measurable outcomes**. I don't just write features — I think about why we're building them and whether they'll hold up at scale.
 
@@ -36,6 +36,20 @@ I care about **architecture, execution speed, product value, and measurable outc
 
 <br/>
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;What I Do
+
+Whatever angle you're hiring for, here's where I fit:
+
+- 📱 &nbsp;**Mobile** — native **Android & iOS** (Kotlin / Swift), **Jetpack Compose**, UI/UX & design collaboration, production at scale (millions of users)
+- 🔗 &nbsp;**Cross-platform** — **KMP & Compose Multiplatform** (shared code across Android/iOS), greenfield or legacy modernization
+- ⚙️ &nbsp;**Backend & Full-stack** — **Kotlin** (Spring Boot, Ktor) and **TypeScript / Node**, REST APIs / BFF, PostgreSQL, AWS / GCP, Docker
+- 🧰 &nbsp;**Dev-Tooling & AI** — **IntelliJ / JetBrains plugins**, **VS Code extensions**, **LLM tooling** & autonomous agents — with merged open-source PRs (below)
+- 🛡️ &nbsp;**Architecture & Security** — Clean Architecture, audits & code reviews, OWASP, hardening, technical due diligence
+
+**Open to:** relocation (Dubai) · contract or full-time · remote-first.
+
+<br/>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;What I've Delivered
 
 - **Louis Vuitton** — Led migration of a legacy Android app to modular, scalable architecture following Clean Architecture principles
@@ -43,19 +57,8 @@ I care about **architecture, execution speed, product value, and measurable outc
 - **Yara International** — Shipped an RFID tracking system (Yara Global Tracing) across Norwegian manufacturing plants using Zebra devices and custom Android SDK integrations
 - **Renault Digital** — Developed and maintained the **My Renault** app — garage management, service booking, connected car controls
 - **TotalEnergies** — Conducted a thorough security and architecture audit of their mobile application codebase
+- **Open source** — merged contributions to **[Continue.dev](https://github.com/continuedev/continue)** (AI code assistant): [PR #8524](https://github.com/continuedev/continue/pull/8524) (Kotlin / IntelliJ performance) · [PR #9659](https://github.com/continuedev/continue/pull/9659) (TypeScript)
 - **Deezer, RATP, Credit du Nord, L'Oreal, Ankorstore, Thales** — and more, across media, transport, banking, retail, and defense
-
-<br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Available For
-
-- **Android & iOS development** — native apps in Kotlin and Swift, production-ready at scale
-- **KMP & Compose Multiplatform migrations** — greenfield or legacy modernization, shared code across platforms
-- **Backend development** — Kotlin (Spring Boot, Ktor) and TypeScript, APIs, microservices
-- **Full-stack engineering** — end-to-end from mobile to backend to cloud
-- **Architecture audits & code reviews** — mobile and backend codebases
-- **AI-augmented team setup** — integrating AI tooling into your dev workflow
-- **Technical due diligence** — for investors, acquirers, or leadership teams
 
 <br/>
 
@@ -107,7 +110,7 @@ I care about **architecture, execution speed, product value, and measurable outc
 
 **Independent contractor since 2018** — 8+ years of finding clients, scoping projects, delivering end-to-end, and taking full ownership of outcomes. I've played every role: **Lead Developer, Architect, Security Auditor, Technical Consultant**. I've led teams, mentored juniors, and defined technical roadmaps.
 
-I use **AI-assisted development as a force multiplier** — not a replacement for engineering judgment. I architect the solution and make the technical decisions. I use tools like Claude and custom agent pipelines to accelerate delivery. Then I own the final quality gate and take full responsibility for what ships.
+I use **AI-assisted development as a force multiplier** — not a replacement for engineering judgment. I architect the solution and make the technical decisions, use tools like Claude and custom agent pipelines to accelerate delivery, then own the final quality gate and take full responsibility for what ships.
 
 <br/>
 
